@@ -11,8 +11,8 @@ import (
 	"net/http"
 
 	"github.com/cloudflare/cfssl/revoke"
+	uuid "github.com/gofrs/uuid"
 	"github.com/mitchellh/mapstructure"
-	uuid "github.com/satori/go.uuid"
 
 	"github.com/golang-jwt/jwt/v4"
 )
