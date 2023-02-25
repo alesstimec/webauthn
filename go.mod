@@ -7,7 +7,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.0.0
 	github.com/google/certificate-transparency-go v1.0.21 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+	golang.org/x/crypto v0.1.0
 )
 
 go 1.13
